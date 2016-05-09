@@ -1,5 +1,7 @@
-local P = {}
-function P.sayHello()
+--local P = {}
+function sayHello()
   print("Hello world")
 end
-return P
+
+sayHello()
+--return P
